@@ -27,7 +27,7 @@ create table brand_constitution (
   active boolean default false,
   created_at timestamptz default now()
 );
-
+c
 -- 3. THE HIPPOCAMPUS (Memory Store)
 create table content_memory (
   id uuid primary key default uuid_generate_v4(),
