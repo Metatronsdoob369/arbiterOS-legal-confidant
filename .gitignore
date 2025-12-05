@@ -24,3 +24,21 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Additional ignores
+.codersinflow
+.vscode
+.env
+.venv
+.codex
+out
+*.vsix
+.claude
+CLAUDE.md
+.git
+*.tmp
+__pycache__
+*.pyc
+.env.local
+.next
+.github
